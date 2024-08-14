@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e5745a8bb4e2cb5",
+        "id": "cc96bf1b18040b52",
         "type": "tabs",
         "children": [
           {
-            "id": "14435ff0b7621f5c",
+            "id": "a87640a67acaf869",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian 101.md",
+                "file": "向量乘法：标量乘法、向量内积、 逐项积.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian 101.md",
+                "file": "向量乘法：标量乘法、向量内积、 逐项积.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian 101.md",
+                "file": "向量乘法：标量乘法、向量内积、 逐项积.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian 101.md"
+                "file": "向量乘法：标量乘法、向量内积、 逐项积.md"
               }
             }
+          },
+          {
+            "id": "14435ff0b7621f5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 588.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,16 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14435ff0b7621f5c",
+  "active": "a87640a67acaf869",
   "lastOpenFiles": [
-    "Introduction Overview.md",
-    "Obsidian 101.md",
     "Project Outline.md",
+    "Obsidian 101.md",
+    "Introduction Overview.md",
     "Quick Start.md",
     "数字的分类：从自然数到复数.md",
     "算术乘法.md",
     "数字和运算：人类思想的伟大飞跃.md",
-    "向量惩罚：标量乘法、向量内积、 逐项积.md",
+    "向量乘法：标量乘法、向量内积、 逐项积.md",
     "Topic B.md",
     "Welcome.md"
   ]
