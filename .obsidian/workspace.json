@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Outline.md",
+                "file": "Obsidian 101.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Outline.md",
+                "file": "Obsidian 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Outline.md",
+                "file": "Obsidian 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Outline.md"
+                "file": "Obsidian 101.md"
               }
             }
           }
@@ -147,14 +147,15 @@
   },
   "active": "14435ff0b7621f5c",
   "lastOpenFiles": [
-    "Project Outline.md",
-    "算术乘法.md",
-    "数字和运算：人类思想的伟大飞跃.md",
-    "Quick Start.md",
-    "向量惩罚：标量乘法、向量内积、 逐项积.md",
-    "Topic B.md",
     "Introduction Overview.md",
     "Obsidian 101.md",
+    "Project Outline.md",
+    "Quick Start.md",
+    "数字的分类：从自然数到复数.md",
+    "算术乘法.md",
+    "数字和运算：人类思想的伟大飞跃.md",
+    "向量惩罚：标量乘法、向量内积、 逐项积.md",
+    "Topic B.md",
     "Welcome.md"
   ]
 }
