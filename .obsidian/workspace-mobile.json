@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a24fc30dbf857635",
+    "type": "split",
+    "children": [
+      {
+        "id": "5712c065c9b8cfe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a674e5addc59168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6bbc50d052dd417",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ff6835132fc470b9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "879c057ed9cdcb62",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4affbb2576b89ec6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "20a91c84963b208a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ce7713481e02ea24",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3fab87344e1ad528",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Project Outline.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8443a91bb31cc0df",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Project Outline.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "38feab9969bbec3e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Project Outline.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1a674e5addc59168",
+  "lastOpenFiles": [
+    "算术乘法.md",
+    "数字和运算：人类思想的伟大飞跃.md",
+    "Topic B.md",
+    "向量惩罚：标量乘法、向量内积、 逐项积.md",
+    "Project Outline.md",
+    "Obsidian 101.md",
+    "Quick Start.md",
+    "Introduction Overview.md"
+  ]
+}
